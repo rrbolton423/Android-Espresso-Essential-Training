@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ad73ab78a8f76a158ae2509709642117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/eeecba99d4a6a623f6c6823930053de1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9716c4e0420f2ec01bc229e473123818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/32ae55906410fec5c2c7e28709900d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0516ee0abd5d06dfd26bcdcf11edd63e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0e6b5059fe5567e107f5994dceea4af4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/473bb3234d19ffc03b3cc62838a9f515/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/730d16aecda88fc97fd52fe5c7810f27/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:4:3-16:17
+	android:label
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:5:7-39
+	android:icon
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:6:7-41
+	android:theme
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sqisland.android.espresso.hello.MainActivity
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:8:5-15:16
+	android:label
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:10:9-41
+	android:name
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:9:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:11:7-14:23
+action#android.intent.action.MAIN
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:12:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ad73ab78a8f76a158ae2509709642117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ad73ab78a8f76a158ae2509709642117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/eeecba99d4a6a623f6c6823930053de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/eeecba99d4a6a623f6c6823930053de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9716c4e0420f2ec01bc229e473123818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/9716c4e0420f2ec01bc229e473123818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/32ae55906410fec5c2c7e28709900d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/32ae55906410fec5c2c7e28709900d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0516ee0abd5d06dfd26bcdcf11edd63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0516ee0abd5d06dfd26bcdcf11edd63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0e6b5059fe5567e107f5994dceea4af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/0e6b5059fe5567e107f5994dceea4af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/473bb3234d19ffc03b3cc62838a9f515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/473bb3234d19ffc03b3cc62838a9f515/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/730d16aecda88fc97fd52fe5c7810f27/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/romellbolton/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/730d16aecda88fc97fd52fe5c7810f27/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/src/main/AndroidManifest.xml

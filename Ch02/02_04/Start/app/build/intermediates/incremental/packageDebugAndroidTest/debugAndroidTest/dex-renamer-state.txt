@@ -1,0 +1,4 @@
+#Wed Jun 13 09:55:06 CDT 2018
+base.0=/Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_04/Start/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="26"
+    build-mode="FULL"
+    density="560dpi"
+    format="10"
+    plugin-version="3.0.1"
+    timestamp="1528914408281"
+    token="-3951055354619251783"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4938" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="286" />
+    <task
+        name="verifier"
+        duration="125" />
+
+    <artifact
+        location="/Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch05/05_02/Start/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1528914408281"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/romellbolton/Desktop/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch05/05_02/Start/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
